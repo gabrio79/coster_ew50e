@@ -3,7 +3,7 @@
   "name": "Coster EW-50E",
   "codeowners": ["@gabrio79"],
   "config_flow": false,
-  "documentation": "https://github.com/mattigabrio79/coster_ew50e",
+  "documentation": "https://github.com/gabrio79/coster_ew50e",
   "iot_class": "local_push",
   "requirements": [],
   "version": "1.0.0"
