@@ -314,7 +314,7 @@ This project is released under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Credits
 
-Developed by [@gabrio79](https://github.com/mattigabrio79)
+Developed by [@gabrio79](https://github.com/gabrio79)
 
 ---
 
